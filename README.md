@@ -1,1 +1,3 @@
-Az eg kek, a fu zold... - nem folytatom... :D 
+ALapvetoen kellett egy hely ahol rendszerezni tudom a python scripteket. Az sem baj, ha attekintheto, revizionalva van(hat ezt majd meglatjuk)...
+Mivel nem egy atomkutatas, igy azt tervezem, hogy mappakba lesznek rendezve a scriptet. A mappaban egy rodiv leiras a feladatrol, majd melle a script is ennyi.
+Elvileg "public" a policy szoval vigyed ha kell. Ha lenne valami epito kritikad, akkor mail-en elersz, illetve @Freenode-net valamint @Quakenet - beke!
